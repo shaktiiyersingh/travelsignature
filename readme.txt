@@ -8,3 +8,5 @@ whats up
 change y
 
 change x
+
+change z
